@@ -1,0 +1,6 @@
+{
+  "name": "Verdant AI - Zero-Database Cognitive Enclave",
+  "description": "An uncompromised, zero-database AI cognition substrate with ephemeral streaming, cryptographic client vaults, and server-side key isolation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
